@@ -5,7 +5,7 @@ import java.awt.event.*;
 
 public class GamePlay extends JPanel implements KeyListener,ActionListener{
     
-    private boolean play = false;
+    private boolean play = false; 
     private int score = 0;
     private int totalBricks = 21;
     private Timer timer;
@@ -142,7 +142,7 @@ public class GamePlay extends JPanel implements KeyListener,ActionListener{
                 ballPosX = 120;
                 ballPosY = 350;
                 ballXDir = -1;
-                ballYDir = -2;
+                ballYDir = -4;
                 score = 0;
                 playerX = 310;
                 totalBricks = 21;
