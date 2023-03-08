@@ -1,2 +1,2 @@
 # BreakOut
-#A simple game similar to Atari Breakout 
+A simple game similar to Atari Breakout 
